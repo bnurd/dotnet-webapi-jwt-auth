@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IKXWNJSx/V8Ks7XEGiUiYRaR7jAogUVIKZOm+VT3JL8=",
+  "Source": "dotnet-webapi-jwt-auth",
+  "BasePath": "_content/dotnet-webapi-jwt-auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
